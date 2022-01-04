@@ -34,7 +34,4 @@ switch (Participantes = 100){
                 console.log(" Encontre outra data para participar do evento")
                 break;
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
+
